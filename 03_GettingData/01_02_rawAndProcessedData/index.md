@@ -14,20 +14,20 @@ widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Definition of data
-<q>Data are values of qualitative or quantitative variables, belonging to a set of items.</q>
+## Definição de dados
+<q>Dados são valores de variáveis quantitativas ou qualitativas, pertencendo a um conjunto de itens.</q>
 
 [http://en.wikipedia.org/wiki/Data](http://en.wikipedia.org/wiki/Data)
 
 
 ---
 
-## Definition of data
-<q>Data are values of qualitative or quantitative variables, belonging to a <redtext>set of items</redtext>.</q>
+## Definição de dados
+<q>Dados são valores de variáveis quantitativas ou qualitativas, pertencendo a um <redtext>conjunto de itens</redtext>.</q>
 
 [http://en.wikipedia.org/wiki/Data](http://en.wikipedia.org/wiki/Data)
 
-__Set of items__: Sometimes called the population; the set of objects you are interested in
+__Conjunto de itens__: também chamado de população; o conjunto de objetos que tu estás interessado
 
 
 
